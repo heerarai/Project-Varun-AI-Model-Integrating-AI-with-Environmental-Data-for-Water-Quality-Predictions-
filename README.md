@@ -1,5 +1,5 @@
 # Project Varuna
-Author: Suhani Rai
+Author: Suhani Rai, Dristi Sharma, Harshini Chandilvel
 
 ## Explainable AI for Water Quality Prediction
 
